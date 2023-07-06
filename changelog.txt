@@ -1,0 +1,4 @@
+*** Cozynest Theme Changelog ***
+
+2022-12-15 - version 1.0.0
+* Initial release

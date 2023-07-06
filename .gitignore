@@ -1,0 +1,30 @@
+# Compiled CSS
+
+/node_modules/
+/cozynest/
+*.log
+*.map
+*.zip
+
+# Codekit
+config.codekit
+
+# Transifex
+.transifexrc
+*.po
+*.mo
+
+# PhpStorm
+.idea
+
+# Composer
+/vendor
+
+# Sublime
+*cache*
+*sublime*
+
+# FTP
+*ftp*
+package-lock.json
+cozynest-1.0.0.zip

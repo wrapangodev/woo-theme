@@ -1,0 +1,100 @@
+:root {
+	--cozynest_font_family_primary: "firava", sans-serif;
+	--cozynest_font_size_small: clamp(0.75rem, 3.5vw, 0.875rem);
+	--cozynest_font_size_body: clamp(0.875rem, 3vw, 1rem);
+	--cozynest_font_size_large: clamp(1rem, 4vw, 1.125rem);
+	--cozynest_font_size_x_large: clamp(1.125rem, 4.5vw, 1.25rem);
+	--cozynest_font_size_button: 0.875rem;
+	--cozynest_font_size_button_letter_spacing: 0.08em;
+	--cozynest_font_weight_regular: 400;
+	--cozynest_font_weight_semibold: 600;
+	--cozynest_font_weight_medium: 500;
+	--cozynest_font_weight_heading: 300;
+	--cozynest_letter_spacing_regular: 0.02em;
+	--cozynest_letter_spacing_primary: -0.02em;
+	--cozynest_letter_spacing_medium: 0em;
+	--cozynest_letter_spacing_additional: 0.08em;
+	--cozynest_color_primary: #242A2E;
+	--cozynest_color_secondary: #c94917;
+	--cozynest_color_white: #FFFFFF;
+	--cozynest_color_lite_grey: #505050;
+	--cozynest_color_lite_cow: #f3f3f3;
+	--cozynest_color_grey: #A5A5A5;
+	--cozynest_background_color_lite: #F5F5F5;
+	--cozynest_button_color_primary: #242A2E;
+	--cozynest_button_color_secondary: #c94917;
+}
+
+.edit-post-visual-editor__post-title-wrapper {
+	margin-bottom: 60px;
+}
+
+.editor-styles-wrapper.block-editor-writing-flow .is-root-container.block-editor-block-list__layout > * + * {
+	margin-block-start: 24px;
+	margin-block-end: 24px;
+}
+
+.editor-styles-wrapper .is-layout-flow > * + * {
+	margin-block-start: 0;
+	margin-block-end: 0;
+}
+
+body.post-type-post .editor-styles-wrapper.block-editor-writing-flow .is-root-container {
+	font-size: 0.875rem;
+}
+
+body.post-type-post .editor-styles-wrapper.block-editor-writing-flow .is-root-container > :where(:not(.alignleft):not(.alignright)) {
+	max-width: 1170px;
+}
+
+body.post-type-post .editor-styles-wrapper.block-editor-writing-flow .is-root-container > :where(.alignwide) {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+body.post-type-post .editor-styles-wrapper.block-editor-writing-flow .is-root-container > :where(.alignfull) {
+	max-width: calc(100vw - 40px);
+	margin: 0 auto;
+}
+
+.editor-styles-wrapper .filter-content {
+	max-width: 260px;
+	margin: 0 auto;
+}
+
+.editor-styles-wrapper .has-megamenu > div > .block-list-appender {
+	width: 30px;
+}
+
+.editor-styles-wrapper .is-root-container textarea {
+	font-size: inherit;
+	background-color: transparent;
+	padding: 0;
+}
+
+.editor-styles-wrapper .is-root-container .wp-block-woocommerce-product-categories ul {
+	margin: 0;
+}
+
+.editor-styles-wrapper .is-root-container input {
+	padding: 0;
+	height: auto;
+	font-size: var(--cozynest_font_size_body);
+}
+
+.wc-block-checkout > .block-editor-inner-blocks > .block-editor-block-list__layout {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
+}
+
+.editor-styles-wrapper .wc-block-components-sort-select select {
+	margin-bottom: 0 !important;
+}
+
+.editor-styles-wrapper .wc-block-components-sort-select {
+	margin-bottom: 27px;
+}

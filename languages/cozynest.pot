@@ -1,0 +1,968 @@
+# Copyright (C) 2023 Cozynest
+# This file is distributed under the same license as the Cozynest package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cozynest\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-03-03 03:07+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: functions.php:16
+msgid "Cozynest"
+msgstr ""
+
+#: functions.php:132
+msgctxt "Checkout coupon code"
+msgid "Coupon code"
+msgstr ""
+
+#: functions.php:133
+msgid "Apply coupon"
+msgstr ""
+
+#: functions.php:395
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: inc/block-patterns.php:15
+msgid "Featured"
+msgstr ""
+
+#: inc/block-patterns.php:16
+msgid "Footers"
+msgstr ""
+
+#: inc/block-patterns.php:17
+msgid "Headers"
+msgstr ""
+
+#: inc/block-patterns.php:18
+msgid "Cards"
+msgstr ""
+
+#: inc/block-patterns.php:19
+msgid "Pages"
+msgstr ""
+
+#: inc/block-patterns.php:20
+msgid "Products"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:514
+msgid "Something went wrong. Please refresh the page and try again!"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:538, inc/cozynest-sites-library/cozynest-sites.php:84, inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2825
+msgid "Activate"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:539
+msgid "Activating..."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:540
+msgid "Deactivate"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:541
+msgid "Deactivating..."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:725
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:730
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:855
+msgid "Welcome"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:863
+msgid "License"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:884
+msgid "Plugins"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:893
+msgid "Modules"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:901
+msgid "Instal"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:907
+msgid "Ready"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1291, inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2373
+msgid "Required"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1292
+msgid "req"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1337
+msgid "Cozynest Active Module"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1339
+msgid "Active Modules"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1357
+msgid "Let's active some modules to get your site up to speed."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1464
+msgid "Select which demo data you want to import:"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1478, inc/cozynest-sites-library/class-cozynest-sites.php:2956
+msgid "Demo Image"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1485, inc/cozynest-sites-library/class-cozynest-sites.php:2975
+msgid "Preview"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1491, inc/cozynest-sites-library/class-cozynest-sites.php:1487, inc/cozynest-sites-library/class-cozynest-sites.php:2964, inc/cozynest-sites-library/class-cozynest-sites.php:2960
+msgid "Select"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1489, inc/cozynest-sites-library/class-cozynest-sites.php:2962
+msgid "Pricing"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1549
+msgid "Make sure you reset the site to default installation values before importing demo data."
+msgstr ""
+
+#. translators: suggested plugin link
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1554
+msgid "You can use the <a href=\"%s\">WP Reset</a> plugin to reset and run through demos."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1818
+msgid "Yikes! The theme activation failed. Please try again or contact support."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1827
+msgid "Please add your license key before attempting to activate one."
+msgstr ""
+
+#. translators: Expiration date
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1902
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1908
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1912
+msgid "This appears to be an invalid license key. Please try again or contact support."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1917
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#. translators: EDD Item Name
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1922
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1926
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:1930, inc/cozynest-sites-library/class-cozynest-sites.php:1889
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2130
+msgid "Activating"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2146
+msgid "Updating"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2162, inc/cozynest-sites-library/class-cozynest-sites.php:2171, inc/cozynest-sites-library/class-cozynest-sites.php:2366, inc/cozynest-sites-library/class-cozynest-sites.php:2379, inc/cozynest-sites-library/class-cozynest-sites.php:2392, inc/cozynest-sites-library/class-cozynest-sites.php:2405, inc/cozynest-sites-library/class-cozynest-sites.php:2418, inc/cozynest-sites-library/class-cozynest-sites.php:2431, inc/cozynest-sites-library/class-cozynest-sites.php:2477
+msgid "Installing"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2178, inc/cozynest-sites-library/class-cozynest-sites.php:2367, inc/cozynest-sites-library/class-cozynest-sites.php:2380, inc/cozynest-sites-library/class-cozynest-sites.php:2393, inc/cozynest-sites-library/class-cozynest-sites.php:2406, inc/cozynest-sites-library/class-cozynest-sites.php:2419, inc/cozynest-sites-library/class-cozynest-sites.php:2432
+msgid "Success"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2206
+msgid "Invalid content!"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2255
+msgid "Error"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2272
+msgid "Invalid data!"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2363
+msgid "Content"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2364
+msgid "Demo content data."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2365, inc/cozynest-sites-library/class-cozynest-sites.php:2378, inc/cozynest-sites-library/class-cozynest-sites.php:2391, inc/cozynest-sites-library/class-cozynest-sites.php:2404, inc/cozynest-sites-library/class-cozynest-sites.php:2417, inc/cozynest-sites-library/class-cozynest-sites.php:2430
+msgid "Pending"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2376
+msgid "Widgets"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2377
+msgid "Sample widgets data."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2389
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2390
+msgid "Sample Revolution sliders data."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2402
+msgid "Options"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2403
+msgid "Sample theme options data."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2415
+msgid "Redux Options"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2416
+msgid "Redux framework options."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2428
+msgid "After import setup"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2429
+msgid "After import setup."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:2936, inc/cozynest-sites-library/class-cozynest-sites.php:3014
+msgid "Sorry! There is no demo for your choice."
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:3089, inc/cozynest-sites-library/class-cozynest-sites.php:3092
+msgid "All"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:3095
+msgid "Free"
+msgstr ""
+
+#: inc/cozynest-sites-library/class-cozynest-sites.php:3098, inc/cozynest-sites-library/class-cozynest-sites.php:3127
+msgid "Pro"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:23
+msgid "Cozynest Sites"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:69
+msgid "Import Demo"
+msgstr ""
+
+#. translators: 1: Title Tag 2: Theme Name 3: Closing Title Tag
+#: inc/cozynest-sites-library/cozynest-sites.php:72
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:73
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:74
+msgid "Disable this wizard"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:76
+msgid "Skip"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:77
+msgid "Next"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:78
+msgid "Start"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:79
+msgid "Cancel"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:80, inc/cozynest-sites-library/cozynest-sites.php:81, inc/cozynest-sites-library/cozynest-sites.php:82, inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2816
+msgid "Install"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:83
+msgid "Start Import"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:85
+msgid "Later"
+msgstr ""
+
+#. translators: Theme Name
+#: inc/cozynest-sites-library/cozynest-sites.php:88
+msgid "Activate %s"
+msgstr ""
+
+#. translators: Theme Name
+#: inc/cozynest-sites-library/cozynest-sites.php:90
+msgid "%s is Activated"
+msgstr ""
+
+#. translators: Theme Name
+#: inc/cozynest-sites-library/cozynest-sites.php:92
+msgid "Enter your license key to enable remote updates and theme support."
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:93
+msgid "License key"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:94
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:95
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:96
+msgid "Need help?"
+msgstr ""
+
+#. translators: Theme Name
+#: inc/cozynest-sites-library/cozynest-sites.php:99
+msgid "Welcome to %s"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:100
+msgid "Hi. Welcome back"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:101
+msgid "This wizard will set up your theme, install plugins, and import content. It is optional & should take only a few minutes."
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:102
+msgid "You may have already run this theme setup wizard. If you would like to proceed anyway, click on the \"Start\" button below."
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:104
+msgid "Install Child Theme"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:105
+msgid "You're good to go!"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:106
+msgid "Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:107
+msgid "Your child theme has already been installed and is now activated, if it wasn't already."
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:108
+msgid "Learn about child themes"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:109
+msgid "Awesome. Your child theme has already been installed and is now activated."
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:110
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:112, inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:330
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:113
+msgid "You're up to speed!"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:114
+msgid "Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:115
+msgid "The required WordPress plugins are all installed and up to date. Press \"Next\" to continue the setup wizard."
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:116, inc/cozynest-sites-library/cozynest-sites.php:120
+msgid "Advanced"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:118
+msgid "Import Starter Site"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:119
+msgid "Let's import content to your website, to help you get familiar with the theme."
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:122
+msgid "All done. Have fun!"
+msgstr ""
+
+#. translators: Theme Author
+#: inc/cozynest-sites-library/cozynest-sites.php:125
+msgid "Your theme has been all set up. Enjoy your new theme by Cozynest."
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:126
+msgid "Extras"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:127
+msgid "View your website"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:128
+msgid "Explore Cozynest"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:129
+msgid "Get Theme Support"
+msgstr ""
+
+#: inc/cozynest-sites-library/cozynest-sites.php:130
+msgid "Start Customizing"
+msgstr ""
+
+#: inc/cozynest-sites-library/demos/demos.php:22
+msgid "After you import this demo, you will have to setup the slider separately."
+msgstr ""
+
+#. translators: site
+#: inc/cozynest-sites-library/includes/admin/class-admin.php:110
+msgid "Preview \"%s\" Site"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-customizer-importer.php:32
+msgid "The customizer import has finished successfully"
+msgstr ""
+
+#. translators: import
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-customizer-importer.php:59
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-customizer-importer.php:72
+msgid "Error: The customizer import file does not have any content in it. Please make sure to use the correct customizer import file."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-customizer-importer.php:82
+msgid "Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-customizer-importer.php:88
+msgid "Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-downloader.php:58
+msgid "The file was not able to save to disk, while trying to download it"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-downloader.php:79
+msgid "Missing URL for downloading a file!"
+msgstr ""
+
+#. translators: 1: New line break, 2: Learn More link, 3: osdffk, 4: osdfk, 5: okdfs, 6: oksdfsdf.
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-downloader.php:105
+msgid "An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - %6$s."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-redux-importer.php:32
+msgid "The Redux Framework data was imported"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-widget-importer.php:75
+msgid "Error: Widget import file could not be found."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-widget-importer.php:86
+msgid "Error: Widget import file does not have any content in it."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-widget-importer.php:108
+msgid "Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-widget-importer.php:160
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-widget-importer.php:181
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-widget-importer.php:230
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-widget-importer.php:299
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-widget-importer.php:296
+msgid "Imported"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-widget-importer.php:305
+msgid "No Title"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-cozynest-sites-widget-importer.php:393
+msgid "No results for widget import!"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:329
+msgid "Install Required Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:332
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:334
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:335
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:337
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:343
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:349
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:355
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:361
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:367
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:372
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:377
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:382
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:387
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:388, inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:925, inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2633, inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3682
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:389, inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3263
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:390, inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3054
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:392
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:394
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:396
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:397
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:398
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:399
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:728
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:1035
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:1035, inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:1032
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:1032
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:1223, inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3050
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: TGMPA version
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2084
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2376
+msgid "Recommended"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2392
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2395
+msgid "External Source"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2398
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2415
+msgid "Not Installed"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2421
+msgid "Active"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2419
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2433
+msgid "Update recommended"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2430
+msgid "Requires Update"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2427
+msgid "Required Update not Available"
+msgstr ""
+
+#. translators: 1: Install Status, 2: Update Status.
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2442
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: %s: count
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2488
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: count
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2492
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: count
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2496
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: count
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2500
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2582
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2590
+msgid "Installed version:"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2598
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2610
+msgid "Available version:"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2633
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2647
+msgid "Plugin"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2648
+msgid "Source"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2649
+msgid "Type"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2653
+msgid "Version"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2654
+msgid "Status"
+msgstr ""
+
+#. translators: update
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2706
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: axtivate
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2712
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2701
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2783
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2822
+msgid "Update"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2859
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2857
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2902
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:2900
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3009
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3036
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3262
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3603
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3605
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3617
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number.
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3619
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3619, inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3611
+msgid "Show Details"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3619, inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3611
+msgid "Hide Details"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3620
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3622
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3609
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3611
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3612
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3614
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/cozynest-sites-library/includes/class-tgm-plugin-activation.php:3600
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/cozynest-sites-library/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:135
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: inc/cozynest-sites-library/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:499
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/cozynest-sites-library/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:661
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: inc/cozynest-sites-library/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1039
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/cozynest-sites-library/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1849
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: inc/cozynest-sites-library/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1871
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/cozynest-sites-library/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1877
+msgid "Remote file is too large, limit is %s"
+msgstr ""
